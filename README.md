@@ -6,3 +6,4 @@ Unit 3 Logistic Regression
 Unit 4 Trees	
 Unit 5 Text Analytics		
 Unit 6 Clustering 
+Unit 7 Visulization
